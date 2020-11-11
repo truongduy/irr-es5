@@ -15,7 +15,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eric-malachias/irr.git"
+    "url": "git+https://github.com/truongduy/node-irr-es5.git"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
@@ -37,7 +37,7 @@
   },
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/eric-malachias/irr/issues"
+    "url": "https://github.com/truongduy/node-irr-es5/issues"
   },
-  "homepage": "https://github.com/eric-malachias/irr#readme"
+  "homepage": "https://github.com/truongduy/node-irr-es5#readme"
 }
